@@ -8,7 +8,7 @@
   <groupId>org.obiba.commons</groupId>
   <artifactId>obiba-commons</artifactId>
   <packaging>pom</packaging>
-  <version>1.7.2-sesi-SNAPSHOT</version>
+  <version>1.7.2-sesi</version>
 
   <licenses>
     <license>
@@ -732,7 +732,7 @@
         <connection>scm:git:git://github.com/cmicognizant/obiba-commons.git</connection>
         <developerConnection>scm:git:https://github.com/cmicognizant/obiba-commons.git</developerConnection>
         <url>https://github.com/cmicognizant/obiba-commons</url>
-      <tag>HEAD</tag>
+      <tag>obiba-commons-1.7.2-sesi</tag>
   </scm>
 <!--
     <scm>
